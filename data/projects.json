@@ -1,0 +1,55 @@
+[
+    {
+        "id": 387724709,
+        "name": "Blog-Web-Site",
+        "size": 4914,
+        "duration": 3870.263500005007,
+        "owner": 87613928,
+        "platforms": [
+            {
+                "platformName": "CPP",
+                "count": 0
+            },
+            {
+                "platformName": "PY",
+                "count": 0
+            },
+            {
+                "platformName": "JS",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": 387783723,
+        "name": "Endless-Runner-Game",
+        "size": 74634,
+        "duration": 0,
+        "owner": 87613928,
+        "platforms": null
+    },
+    {
+        "id": 388739410,
+        "name": "Exchange-Rate-App",
+        "size": 502,
+        "duration": 0,
+        "owner": 87613928,
+        "platforms": null
+    },
+    {
+        "id": 387224624,
+        "name": "Rest-Api",
+        "size": 40,
+        "duration": 0,
+        "owner": 87613928,
+        "platforms": null
+    },
+    {
+        "id": 492467534,
+        "name": "Self-Driving-Car",
+        "size": 2793,
+        "duration": 0,
+        "owner": 87613928,
+        "platforms": null
+    }
+]
