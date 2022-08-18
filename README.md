@@ -21,6 +21,10 @@ in the traversed project will be detected with the capacity of at least 3 platfo
 CPP, PY etc). All these files will be grouped by its platform inside a new directory whose
 name is the platform.
 
+<p align="center">
+  <img src="/images/folder_design.png" />
+</p>
+
 - Individual projects will be listed in the folder named after the user who created them. And
 the files will be grouped under a platform directory to which they belong.
 
@@ -37,3 +41,9 @@ the Project object.
 - GET /analyze?key=<project_id> (analyze project)
 - GET /user (get user information)
 - GET /project?id=< project_id> (get overview information)
+
+> # Data Types
+
+<p align="center">
+  <img src="/images/data_types.png" />
+</p>
